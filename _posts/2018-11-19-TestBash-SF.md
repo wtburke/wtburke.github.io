@@ -5,7 +5,7 @@ title: TestBash San Francisco 2018
 
 Last week I had the pleasure of attending my first professional conference at TestBash San Francisco. TestBash is a single-track software testing conference organized by the UK-Based Ministry of Testing with events for testers all over the world including Australia, Germany, the Netherlands, Dublin, Manchester, and Brighton just to name a few. The single-track feature of this conference is great because attendees don’t have to pick and choose between any competing topics, everyone sees every session. This year’s TestBash SF featured awesome speakers on a range of topics from leadership and quality culture to test data management and testing serverless applications.
 
-###Highlights
+### Highlights
 * Elisabeth Hendrickson (author of Explore It!, VP at Pivotal) kicked off the conference with a talk about influence and leadership, which touched on techniques for gaining influence and becoming a leader. Her key points were that each of us has agency to lead by example, fear makes a lousy compass, and to focus on shaving the right yak [Yak Shaving](https://www.dailymotion.com/video/x2est2c).
 
 * Rick Clymer spoke about his experiences with testing Mobile apps and the mobile testing pyramid. His experience and the model speak to why it is so important to understand what we are testing and how we are achieving coverage. That is, test for things like code correctness or functional verification on simulators/emulators, and focus real-device testing on things like user experience, network connectivity, interaction with background apps etc.
